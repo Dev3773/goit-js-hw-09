@@ -1,0 +1,1 @@
+{"version":3,"file":"2-form.js","sources":["../src/js/2-form.js"],"sourcesContent":["const formRef = document.querySelector(\".form__tittle\");\nconsole.log(formRef);"],"names":["formRef"],"mappings":"oCAAA,MAAMA,EAAU,SAAS,cAAc,eAAe,EACtD,QAAQ,IAAIA,CAAO"}
