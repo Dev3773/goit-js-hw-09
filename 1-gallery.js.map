@@ -1,1 +1,1 @@
-{"version":3,"file":"1-gallery.js","sources":["../src/js/1-gallery.js"],"sourcesContent":["const galleryRef = document.querySelector(\".gallery__tittle\");\nconsole.log(galleryRef);"],"names":["galleryRef"],"mappings":"oCAAA,MAAMA,EAAa,SAAS,cAAc,kBAAkB,EAC5D,QAAQ,IAAIA,CAAU"}
+{"version":3,"file":"1-gallery.js","sources":["../src/js/1-gallery.js"],"sourcesContent":["const galleryRef = document.querySelector(\".gallery__tittle\");\nconsole.log(galleryRef);"],"names":["galleryRef"],"mappings":"wFAAA,MAAMA,EAAa,SAAS,cAAc,kBAAkB,EAC5D,QAAQ,IAAIA,CAAU"}
