@@ -1,4 +1,32 @@
-.gallery__tittle {
-  color: blue;
-  font-size: 20px;
+body {
+  background-color: #F5F5F5;
+}
+
+body.modal-open {
+  background-color: rgba(46, 47, 66, 0.8);
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  width: 1128px;
+  height: 648px;
+  gap: 24px;
+  margin: 0 auto;
+}
+
+.gallery-image {
+  width: 360px;
+  height: 200px;
+  
+  cursor: zoom-in;
+  
+  transition: transform 0.3s ease;
+}
+
+.gallery-image:hover {
+  transform: scale(1.05);
 }
