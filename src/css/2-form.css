@@ -2,21 +2,12 @@ body {
   background-color: #F5F5F5;
 }
 
-.mein-link {
+.link-form {
   display: inline-block;
-
-  color: #4e75ff;
-
-  font-size: 20px;
-  margin-top: 20px;
-  margin-left: 20px;
-
-  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.mein-link:hover, .mein-link:focus {
-  color: tomato;
-}
+  
+  margin-top: 1.25rem;
+  margin-left: 1.25rem;
+  }
 
 .feedback-form {
   width: 25.5rem;
@@ -25,7 +16,7 @@ body {
   background-color: #fff;
 
   margin-right: auto;
-  margin-top: 70px;
+  margin-top: 4.375rem;
   margin-left: auto;
   padding: 1.5rem;
   border-radius: 0.5rem;
